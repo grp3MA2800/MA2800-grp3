@@ -2,7 +2,7 @@
 html, body {
 margin: 0;
 padding: 0;
-font-family: 'Courier New', Courier, monospace;				
+font-family: 'Arial', sans-serif;				
 font-size: 1.1em;
 text-align: center;
 color: #FFFFFF;
@@ -20,11 +20,11 @@ color: #FFFFFF;
 
 .main header,
 .main footer {
-background: #FED0D1;
+background: #f86fb6;
 			}
 
 .hg-sidebar {
-background: #F34A4E;
+background: #fec6e8;
 			}
 
 			/**
