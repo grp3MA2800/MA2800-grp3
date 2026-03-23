@@ -47,7 +47,7 @@ flex-direction: column;
 
 .main-content {
 	flex: 1 1 auto;
-    color: #777777;
+    color: #6b5c5c;
 			}
 
 @media (min-width: 768px) {
